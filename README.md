@@ -2,10 +2,10 @@
 
 ## **Overview**
 This project integrates with the **[Insightease Forex API](https://insightease.com/docs/forex-api)** to fetch and process forex-related data. The API allows you to:  
-- ** Retrieve forex symbols  
-- ** Convert currencies  
-- ** Get real-time exchange rates  
-- ** Analyze historical price trends  
+-  Retrieve forex symbols  
+-  Convert currencies  
+-  Get real-time exchange rates  
+-  Analyze historical price trends  
 
 It's built with **JavaScript** and runs in a Node.js environment.
 
@@ -40,7 +40,6 @@ To make API requests and retrieve forex data, run the main script:
 sh
 node main.js
 
-
 ## Use Case Example
 An example request to retrieve the most recent GBP/USD pricing is as follows:
 javascript
@@ -61,7 +60,7 @@ main();
 - Ensure that the API base URL is correct and up to date.
 - Since the response format is JSON, proper parsing and handling must be done.
 
-### 🔗 Other Links
+###  Other Links
 - **Real-Time Currency Conversion:** [Forex Real-Time Conversion](https://insightease.com/currency-converter)
 - **Contact Us:** [Contact Insightease](https://insightease.com/contact)
 
