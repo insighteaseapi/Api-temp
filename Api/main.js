@@ -2,7 +2,7 @@ const insighteaseForex = require('./insightease_forex.js');
 
 async function main() {
     // Instantiate insighteaseForex with your API key
-    const forexApi = new insighteaseForex('TrN3njXhvR5Jkqz0VPZIOdHRrE');
+    const forexApi = new insighteaseForex('Your_api_key');
 
     try {
          const latestPrice = await forexApi.getLatestPrice('GBP/USD');
