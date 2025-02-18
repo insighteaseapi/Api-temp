@@ -1,4 +1,4 @@
-# **Forex API JavaScript by Insightease**
+# **Forex API Node.js by Insightease**
 
 ## **Overview**
 This project integrates with the **[Insightease Forex API](https://insightease.com/docs/forex-api)** to fetch and process forex-related data. The API allows you to:  
