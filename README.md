@@ -62,7 +62,7 @@ main();
 
 ###  Other Links
 - **Real-Time Currency Conversion:** [Forex Real-Time Conversion](https://insightease.com/currency-converter)
-- **Contact Us:** [Contact Insightease](https://insightease.com/contact)
+- **Contact Us:** [Website](https://insightease.com)
 
 ## License
 This project is intended for educational purposes. For usage restrictions, please refer to the terms provided by the API provider.
