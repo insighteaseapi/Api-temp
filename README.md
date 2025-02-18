@@ -52,8 +52,6 @@ async function main() {
     const latestPrice = await forexApi.getLatestPrice("GBP/USD");
     console.log("Latest Price of GBP/USD:", latestPrice);
 }
-
-
 main();
 ```
 ## Notes
