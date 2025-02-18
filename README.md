@@ -41,9 +41,10 @@ sh
 node main.js
 
 ## Use Case Example
+
 An example request to retrieve the most recent GBP/USD pricing is as follows:
 
-javascript
+```javascript
 const insighteaseForex = require('./insightease_forex');
 
 async function main() {
@@ -51,6 +52,7 @@ async function main() {
     const latestPrice = await forexApi.getLatestPrice("GBP/USD");
     console.log("Latest Price of GBP/USD:", latestPrice);
 }
+
 
 main();
 
