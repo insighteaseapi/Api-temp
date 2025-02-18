@@ -42,6 +42,7 @@ node main.js
 
 ## Use Case Example
 An example request to retrieve the most recent GBP/USD pricing is as follows:
+
 javascript
 const insighteaseForex = require('./insightease_forex');
 
