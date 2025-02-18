@@ -54,8 +54,8 @@ async function main() {
 }
 
 
-main();```
-
+main();
+```
 ## Notes
 - The **fetch API** is used to make HTTP requests.
 - The API key should be securely stored instead of hardcoding it.
