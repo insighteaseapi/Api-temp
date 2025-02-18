@@ -54,8 +54,7 @@ async function main() {
 }
 
 
-main();
-
+main();```
 
 ## Notes
 - The **fetch API** is used to make HTTP requests.
